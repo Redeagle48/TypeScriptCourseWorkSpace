@@ -5,7 +5,9 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "lite-server": "^2.2.2"
+    "lite-server": "^2.2.2",
+    "systemjs": "^0.19.40",
+    "typescript": "^2.0.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
